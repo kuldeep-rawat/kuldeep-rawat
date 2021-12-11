@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuldeep Rawat
 - 👀 I’m interested in Web, Software development & UI design
-- 💻 I’m currently learning and working on React.js, Angular & Microsoft Power Platform
+- 💻 I’m currently learning and working on ReactJS, Angular & Microsoft Power Platform
 
 <!---
 thekuldeeprawat/thekuldeeprawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
